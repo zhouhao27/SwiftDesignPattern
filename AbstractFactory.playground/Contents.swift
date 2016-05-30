@@ -6,7 +6,7 @@
 //: 3. 增加新的产品族很方便，无须修改已有系统，符合“开闭原则”。
 //: ### 缺点：
 //: 增加新的产品等级结构麻烦，需要对原有系统进行较大的修改，甚至需要修改抽象层代码，这显然会带来较大的不便，违背了“开闭原则”。
-//: ![Pattern Image](img/AbstractFactory.png)
+//: ![Pattern Image](AbstractFactory.png)
 
 import Foundation
 

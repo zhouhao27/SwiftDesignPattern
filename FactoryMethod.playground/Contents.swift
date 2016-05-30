@@ -1,6 +1,6 @@
 //: ## Factory Method - 工厂方法
 //:
-//: ![Pattern Image](img/FactoryMethod.png)
+//: ![Pattern Image](FactoryMethod.png)
 //:
 //: ### 主要优点
 //: 1. 在工厂方法模式中，工厂方法用来创建客户所需要的产品，同时还向客户隐藏了哪种具体产品类将被实例化这一细节，用户只需要关心所需产品对应的工厂，无须关心创建细节，甚至无须知道具体产品类的类名。

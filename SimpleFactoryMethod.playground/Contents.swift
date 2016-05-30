@@ -1,6 +1,6 @@
 //: ## Simple Factory Pattern - 简单工厂模式
 //:
-//: ![简单工厂模式图片](img/SimpleFactory.png)
+//: ![简单工厂模式图片](SimpleFactoryMethod.png)
 //:
 //: * 适合产品类型不是很多的简单情形。
 //:
